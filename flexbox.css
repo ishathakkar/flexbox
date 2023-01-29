@@ -1,0 +1,49 @@
+body{
+    background-color: plum;
+}
+
+
+
+.one{    
+    border-radius: 25px;
+    
+    
+}
+.two{
+    border-radius: 25px;
+    background-color: white;
+    padding:10px 20px;
+    
+    display:flex;
+}
+
+.three{
+    border-radius: 25px;
+    background-color: rgb(0, 0, 255);
+    margin-right: 20px;
+    color:white;
+    padding: 10px;
+}
+
+.four{
+    border-radius: 25px;
+    background-color: hwb(0 70% 29%);
+    margin-right: 20px;
+    padding: 10px;
+
+}
+#end{
+    justify-content: end;
+}
+#center{
+    justify-content:center ;
+}
+#between{
+    justify-content: space-between;
+}
+#around{
+    justify-content: space-around;
+}
+#evenly{
+    justify-content: space-evenly;
+}
